@@ -23,7 +23,7 @@ Activity Recognition is a python project that learns from a video-based dataset 
 	* SVM on features extracted by HOG + features extracted by HOF : 68.69%
 
 - Dataset used:
-	* 793 videos divided into 7 classes, each video is between 3 and 10 seconds.
+	* 793 videos divided into 7 classes, each video is between 3 and 10 seconds. (Attached)
 	* Given videos are splitted to 70% training data and 30% testing data.
 
 - Prerequisites:
